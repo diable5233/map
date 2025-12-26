@@ -41,87 +41,125 @@
       <address><![CDATA[гр. Банкя, ул. "Цар Симеон" № 1]]></address>
       <description><![CDATA[гр. Банкя, ул. "Цар Симеон" № 1]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.143080,42.711123,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Витоша"]]></name>
       <address><![CDATA[гр. София, кв. "Павлово", ул. "Слънце" № 2]]></address>
       <description><![CDATA[гр. София, кв. "Павлово", ул. "Слънце" № 2]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.339170,42.648333,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Връбница"]]></name>
       <address><![CDATA[гр. София, бул. "Хан Кубрат", бл. 328, вх. Б]]></address>
       <description><![CDATA[гр. София, бул. "Хан Кубрат", бл. 328, вх. Б]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.283889,42.703333,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Възраждане"]]></name>
       <address><![CDATA[гр. София, бул. "Александър Стамболийски" № 62]]></address>
       <description><![CDATA[гр. София, бул. "Александър Стамболийски" № 62]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.319722,42.695833,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Изгрев"]]></name>
       <address><![CDATA[гр. София, ул. "Атанас Далчев" № 12]]></address>
       <description><![CDATA[гр. София, ул. "Атанас Далчев" № 12]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.334444,42.668889,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Илинден"]]></name>
       <address><![CDATA[гр. София, ул. "Билянини извори" № 10]]></address>
       <description><![CDATA[гр. София, ул. "Билянини извори" № 10]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.290000,42.720000,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Искър"]]></name>
       <address><![CDATA[гр. София, бул. "Кръстю Пастухов" № 18]]></address>
       <description><![CDATA[гр. София, бул. "Кръстю Пастухов" № 18]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.387500,42.668333,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Красна поляна"]]></name>
       <address><![CDATA[гр. София, бул. "Освобождение" № 25]]></address>
       <description><![CDATA[гр. София, бул. "Освобождение" № 25]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.273611,42.693889,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Красно село"]]></name>
       <address><![CDATA[гр. София, бул. "Цар Борис III" № 124]]></address>
       <description><![CDATA[гр. София, бул. "Цар Борис III" № 124]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.315278,42.690556,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Кремиковци"]]></name>
       <address><![CDATA[гр. София, кв. Ботунец, ул. "Челопешко шосе" № 267]]></address>
       <description><![CDATA[гр. София, кв. Ботунец, ул. "Челопешко шосе" № 267]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.527222,42.755278,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Лозенец"]]></name>
       <address><![CDATA[гр. София, бул. "Васил Левски" № 2]]></address>
       <description><![CDATA[гр. София, бул. "Васил Левски" № 2]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.334722,42.674167,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Люлин"]]></name>
       <address><![CDATA[гр. София, бул. "Захари Стоянов" № 15]]></address>
       <description><![CDATA[гр. София, бул. "Захари Стоянов" № 15]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.249722,42.683611,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Младост"]]></name>
       <address><![CDATA[гр. София, бул. "Свето Преображение" № 1]]></address>
       <description><![CDATA[гр. София, бул. "Свето Преображение" № 1]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.369444,42.645000,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Надежда"]]></name>
+      <address><![CDATA[гр. София, ж.к. "Надежда-2", ул. "Осми март" № 6]]></address>
       <description><![CDATA[гр. София, ж.к. "Надежда-2", ул. "Осми март" № 6]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
       <Point>
-        <coordinates>
-          23.3044735,42.7281681,0
-        </coordinates>
+        <coordinates>23.3044735,42.7281681,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -129,21 +167,26 @@
       <address><![CDATA[гр. Нови Искър, ул. "Искърско дефиле" № 121]]></address>
       <description><![CDATA[гр. Нови Искър, ул. "Искърско дефиле" № 121]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.390000,42.800000,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Оборище"]]></name>
       <address><![CDATA[гр. София, бул. "Мадрид" № 1]]></address>
       <description><![CDATA[гр. София, бул. "Мадрид" № 1]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.326944,42.702500,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Овча купел"]]></name>
+      <address><![CDATA[гр. София, ул. "Любляна" № 50]]></address>
       <description><![CDATA[гр. София, ул. "Любляна" № 50]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
       <Point>
-        <coordinates>
-          23.2564221,42.6699624,0
-        </coordinates>
+        <coordinates>23.2564221,42.6699624,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -151,42 +194,63 @@
       <address><![CDATA[с. Панчарево, ул. "Самоковско шосе" № 230]]></address>
       <description><![CDATA[с. Панчарево, ул. "Самоковско шосе" № 230]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.391389,42.559722,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Подуяне"]]></name>
       <address><![CDATA[гр. София, ул. "Плакалница" № 51]]></address>
       <description><![CDATA[гр. София, ул. "Плакалница" № 51]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.347222,42.718056,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Сердика"]]></name>
       <address><![CDATA[гр. София, бул. "Княгиня Мария Луиза" № 88]]></address>
       <description><![CDATA[гр. София, бул. "Княгиня Мария Луиза" № 88]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.321944,42.710833,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Слатина"]]></name>
       <address><![CDATA[гр. София, бул. "Шипченски проход" № 67]]></address>
       <description><![CDATA[гр. София, бул. "Шипченски проход" № 67]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.388889,42.686667,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Средец"]]></name>
       <address><![CDATA[гр. София, ул. "Леге" № 6]]></address>
       <description><![CDATA[гр. София, ул. "Леге" № 6]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.325000,42.693889,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Студентски"]]></name>
       <address><![CDATA[гр. София, ж.к. "Студентски град", бл. 5]]></address>
       <description><![CDATA[гр. София, ж.к. "Студентски град", бл. 5]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.376389,42.652222,0</coordinates>
+      </Point>
     </Placemark>
     <Placemark>
       <name><![CDATA[Район "Триадица"]]></name>
       <address><![CDATA[гр. София, ул. "Алабин" № 54]]></address>
       <description><![CDATA[гр. София, ул. "Алабин" № 54]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
+      <Point>
+        <coordinates>23.318889,42.700278,0</coordinates>
+      </Point>
     </Placemark>
   </Document>
 </kml>
