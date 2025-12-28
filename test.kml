@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
       <name><![CDATA[Район "Банкя"]]></name>
-      <address><![CDATA[гр. Банкя, ул. "Цар Симеон" № 1]]></address>
       <description><![CDATA[гр. Банкя, ул. "Цар Симеон" № 1]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
       <Point>
