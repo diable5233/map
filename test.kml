@@ -55,7 +55,6 @@
         <coordinates>23.288609756234095,42.71494581745349</coordinates>
       </Point>
     </Placemark>
-<!--
     <Placemark>
       <name><![CDATA[Район "Искър"]]></name>
       <address><![CDATA[гр. София, бул. "Кръстю Пастухов" № 18]]></address>
@@ -217,6 +216,6 @@
       <Point>
         <coordinates>23.32255162827385,42.69459256630117</coordinates>
       </Point>
-    </Placemark> -->
+    </Placemark>
 </Document>
 </kml>
