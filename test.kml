@@ -9,6 +9,7 @@
         <coordinates>23.14823521892376,42.70567429200102,0</coordinates>
       </Point>
     </Placemark>
+<!--
     <Placemark>
       <name><![CDATA[Район "Витоша"]]></name>
       <address><![CDATA[гр. София, кв. "Павлово", ул. "Слънце" № 2]]></address>
@@ -215,5 +216,5 @@
       <Point>
         <coordinates>23.32255162827385,42.69459256630117</coordinates>
       </Point>
-    </Placemark>
+    </Placemark> -->
 </kml>
