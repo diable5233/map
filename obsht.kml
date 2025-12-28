@@ -42,7 +42,7 @@
       <description><![CDATA[гр. Банкя, ул. "Цар Симеон" № 1]]></description>
       <styleUrl>#icon-1769-C2185B</styleUrl>
       <Point>
-        <coordinates>23.14823521892376,42.70567429200102</coordinates>
+        <coordinates>23.14823521892376,42.70567429200102,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
