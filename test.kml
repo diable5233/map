@@ -8,7 +8,7 @@
         <coordinates>23.14823521892376,42.70567429200102,0</coordinates>
       </Point>
     </Placemark>
-<!--
+
     <Placemark>
       <name><![CDATA[Район "Витоша"]]></name>
       <address><![CDATA[гр. София, кв. "Павлово", ул. "Слънце" № 2]]></address>
@@ -54,6 +54,7 @@
         <coordinates>23.288609756234095,42.71494581745349</coordinates>
       </Point>
     </Placemark>
+<!--
     <Placemark>
       <name><![CDATA[Район "Искър"]]></name>
       <address><![CDATA[гр. София, бул. "Кръстю Пастухов" № 18]]></address>
