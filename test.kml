@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Style> 
+<IconStyle> 
+<color>ff5b18c2</color> 
+<scale>1</scale> 
+<Icon> 
+<href>https://www.clipartmax.com/png/small/253-2533880_city-hall-icon.png</href> 
+</Icon> 
+</IconStyle> <LabelStyle> <scale>0</scale> </LabelStyle> </Style>
   <Placemark>
       <name><![CDATA[Район "Банкя"]]></name>
       <description><![CDATA[гр. Банкя, ул. "Цар Симеон" № 1]]></description>
-      <styleUrl>#icon-1769-C2185B</styleUrl>
+      
       <Point>
         <coordinates>23.14823521892376,42.70567429200102,0</coordinates>
       </Point>
@@ -12,7 +20,7 @@
     <Placemark>
       <name><![CDATA[Район "Витоша"]]></name>
       <description><![CDATA[гр. София, кв. "Павлово", ул. "Слънце" № 2]]></description>
-      <styleUrl>#icon-1769-C2185B</styleUrl>
+      
       <Point>
         <coordinates>23.272124888455473,42.67055733102583</coordinates>
       </Point>
