@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-<Style> 
+<Style id="town"> 
 <IconStyle> 
 <color>ff5b18c2</color> 
 <scale>1</scale> 
@@ -28,7 +28,7 @@
     <Placemark>
       <name><![CDATA[Район "Връбница"]]></name>
       <description><![CDATA[гр. София, бул. "Хан Кубрат", бл. 328, вх. Б]]></description>
-      <styleUrl>#icon-1769-C2185B</styleUrl>
+      <styleUrl>town</styleUrl>
       <Point>
         <coordinates>23.286376585190816,42.73024450820834</coordinates>
       </Point>
@@ -36,7 +36,7 @@
     <Placemark>
       <name><![CDATA[Район "Възраждане"]]></name>
       <description><![CDATA[гр. София, бул. "Александър Стамболийски" № 62]]></description>
-      <styleUrl>#icon-1769-C2185B</styleUrl>
+      <styleUrl>town</styleUrl>
       <Point>
         <coordinates>23.312392622092236,42.698340819871795</coordinates>
       </Point>
