@@ -3,14 +3,12 @@
   <Document>
 
     <name>РАЙОННИ АДМИНИСТРАЦИИ</name>
-
-    <!-- One reusable style for ALL placemarks -->
     <Style id="raion-pin">
       <IconStyle>
-        <color>blue</color>
+        <color>ff5252ff</color>
         <scale>1</scale>
         <Icon>
-          <href>https://github.com/diable5233/map/blob/cc8947e99554c5b23ca1308568a241f7e01b2a1e/town.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
