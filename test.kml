@@ -5,10 +5,10 @@
     <name>РАЙОННИ АДМИНИСТРАЦИИ</name>
     <Style id="raion-pin">
       <IconStyle>
-        <color>ff5252ff</color>
+        <color>ff0000ff</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
